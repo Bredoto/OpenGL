@@ -1,0 +1,3 @@
+all:
+	g++ rotate.cpp -lglut -lGL -lGLU -lGLEW -lm -o olala
+
